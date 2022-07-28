@@ -3,12 +3,15 @@
 ### More information on the Carnegie Hero Fund Commission can be found here:
 https://www.carnegiehero.org/
 
-###The Carnegie Hero Fund was established in 1905 by Andrew Carnegie who said "we live in a Heroic Age". This project will examine if people are more willing to risk their life for a stranger if they live in a smaller population area. I chose the Carnegie Hero Fund for data because of its requirements and number of years available. The award is given 4 times a year to civilians who voluntarily risks life to an "extraordinary degree" and have "no full measure of responsibility for the safety of the victim". Part One will focuse on cleaning and analysis of the Carnegie Hero Fund data. Part Two will introduce and clean population data from the Census Bureau. Part Three will merge the two data frames. Part Four will summarize my finidings.
+The Carnegie Hero Fund was established in 1905 by Andrew Carnegie who said "we live in a Heroic Age". This project will examine if people are more willing to risk their life for a stranger if they live in a smaller population area. I chose the Carnegie Hero Fund for data because of its requirements and number of years available. The award is given 4 times a year to civilians who voluntarily risks life to an "extraordinary degree" and have "no full measure of responsibility for the safety of the victim". Part One will focuse on cleaning and analysis of the Carnegie Hero Fund data. Part Two will introduce and clean population data from the Census Bureau. Part Three will merge the two data frames. Part Four will summarize my finidings.
 
 >> 
 <br> 
 
-
+Full data for the Carnegie Medal can be viewed in medal.xlsx
+Full data for the population growth of all counties in California can be viewed in CAPOP.xlsx
+All project work is found in hero.ipynb
+See DATA_DICTIONARY.md for terminology explanations
 
 ### Relevant Packages:
 Jupyter Notebook (my project is an .ipynb file) <br>
@@ -40,7 +43,7 @@ For information on how to install and run Jupyter Notebook, please see the docum
 >> - if using Windows Command Prompt: venv\Scripts\activate.bat
 >> - if using Linux or Mac with bash/zsh: venv/bin/activate
 - For additional help troubleshooting, see the "venv - Creation of virtual environments" documentaiton: https://docs.python.org/3/library/venv.html
-- Run pip install -r requirements.txt to install the required packages.
+- Run pip install -r requirement.txt to install the required packages.
 - From the project directory, run python src\hero.ipynb on Windows, or python src/hero.ipynb on Linux/Mac, then follow the terminal prompts.
 
 <br>
