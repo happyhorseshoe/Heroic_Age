@@ -8,10 +8,10 @@ The Carnegie Hero Fund was established in 1905 by Andrew Carnegie who said "we l
 >> 
 <br> 
 
-Full data for the Carnegie Medal can be viewed in medal.xlsx
-Full data for the population growth of all counties in California can be viewed in CAPOP.xlsx
-All project work is found in hero.ipynb
-See DATA_DICTIONARY.md for terminology explanations
+Full data for the Carnegie Medal can be viewed in medal.xlsx<br>
+Full data for the population growth of all counties in California can be viewed in CAPOP.xlsx<br>
+All project work is found in hero.ipynb<br>
+See DATA_DICTIONARY.md for terminology explanations<br>
 
 ### Relevant Packages:
 Jupyter Notebook (my project is an .ipynb file) <br>
