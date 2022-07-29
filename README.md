@@ -12,7 +12,8 @@ Full data for the Carnegie Medal can be viewed in medal.xlsx<br>
 Full data for the population growth of all counties in California can be viewed in CAPOP.xlsx<br>
 All project work is found in hero.ipynb<br>
 See DATA_DICTIONARY.md for terminology explanations<br>
-
+See visuals on Tableau at https://public.tableau.com/app/profile/elizabeth.morrison3800/viz/HeroicAgeorHeroicPopulation_16590510292000/Story <br>
+>>
 ### Relevant Packages:
 Jupyter Notebook (my project is an .ipynb file) <br>
 Python 3 and higher <br>
@@ -52,5 +53,12 @@ For information on how to install and run Jupyter Notebook, please see the docum
 
 
 ### Feature List:
+1. Read TWO data files (JSON, CSV, Excel, etc.). 
+2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
+3. Make a Tableau dashboard to display your data.
+4. Utilize a virtual environment and include instructions in your README on how the user should set one up.
+    -Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set.
+5. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. 
+
 
 
