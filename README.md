@@ -57,7 +57,7 @@ For information on how to install and run Jupyter Notebook, please see the docum
 2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
 3. Make a Tableau dashboard to display your data.
 4. Utilize a virtual environment and include instructions in your README on how the user should set one up.
-    -Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set.
+    - Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set.
 5. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. 
 
 
