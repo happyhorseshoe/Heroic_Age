@@ -25,7 +25,7 @@ For information on how to install and run Jupyter Notebook, please see the docum
 
 - Install Jupyter Notebook with: pip install notebook in order to run the notebook, hero.ipynb
 - Run the command jupyter notebook in the command prompt (Windows) or terminal (Mac).
-- Navigate to the project directory CHM and open the hero.ipynb file
+- Navigate to the project directory Heroic_Age and open the hero.ipynb file
 
 - Once the notebook has opened, select Kernel and Restart & Run All to run all cells in the file.
 
@@ -39,7 +39,7 @@ For information on how to install and run Jupyter Notebook, please see the docum
 ### Alternative Instructions for running:
 
 - Setup: Run git clone <your repo url.git> to clone the repository.
--  the directory for the project ('CHM'), run python3 -m venv venv to create the virtual environment.
+-  the directory for the project ('Heroic_Age'), run python3 -m venv venv to create the virtual environment.
 - Activate the newly created python virtual environment. From the project directory run the following command:
 >> - if using Windows Command Prompt: venv\Scripts\activate.bat
 >> - if using Linux or Mac with bash/zsh: venv/bin/activate
